@@ -3,8 +3,9 @@
 body{
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
-	color:#545257; /*changes color of the whole text*/
-	margin-top: 0;
+	color: #f4f4f4; /*changes color of the whole text*/
+	margin-top: 40;
+	background-color: #295a83;
 }
 #wrapper{
 	width:960px;
@@ -45,9 +46,9 @@ th{
 	text-align: left;
 	padding: 1em 1em .5em;
 	font-weight: bold;
-	font-size: 120%;
-	color: #545257;  /*changes color of table hd text*/
-	background: #bbbcc0; /*changes color of table hd background*/
+	font-size: 130%;
+	color: #e6e7eb;  /*changes color of table hd text*/
+	background: #6293bc; /*changes color of table hd background*/
 }
 th:first-child{
 	/*border-right: 1px solid #6a7680;*/
